@@ -1,5 +1,8 @@
 # hedera-aws-kms-signing
 
+Original by Pathorn Tengkiattrakul:
+https://github.com/pathornteng/hedera-aws-kms-signing
+
 This repo contains the code to demonstrate how to use AWS KMS to sign transactions for Hedera Network.
 
 ## Prerequisite

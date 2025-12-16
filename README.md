@@ -17,7 +17,7 @@ This repository includes examples for the following services:
 
 Before you begin, ensure you have the following:
 
-  * A **Hedera Testnet account**. If you don't have one, you can register at the [Hedera Developer Portal](https://portal.hedera.com/register).
+  * A **Hedera Testnet account**. If you don't have one, you can register at the [Hedera Developer Portal](https://hubs.ly/Q03YgvvZ0).
   * **Node.js** (version 18.0.0 or higher).
   * Cloud-specific CLI tools and accounts as detailed in the provider-specific sections.
 
